@@ -21,7 +21,6 @@ public class Leaf extends Actor
         speed = Greenfoot.getRandomNumber(3) + 1;      // random speed: 1 to 3
         setRotation(Greenfoot.getRandomNumber(360));
 
-
     }
 
     /**
